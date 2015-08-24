@@ -3,10 +3,10 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.buddat.ludumdare</groupId>
   <artifactId>ld33</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>Monster Mash</version>
   <packaging>jar</packaging>
 
-  <name>LD33 Game</name>
+  <name>Monster Mash</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
